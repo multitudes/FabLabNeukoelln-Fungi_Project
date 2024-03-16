@@ -1,6 +1,11 @@
 # FabLabNeukoelln-Fungi_Project
 FabLabNeukoelln-Fungi_Project
 
+A way to live sustainable. 
+Substrate can be a mix of cardboard and saw dust or coffee ground. (Would need to be sterile though.
+
+Learn and start a business or feed your school. :)
+
 # Where?
 In the storage room of the fablab/42Berlin school
 
