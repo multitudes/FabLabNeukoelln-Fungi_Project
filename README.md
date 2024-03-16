@@ -36,11 +36,11 @@ create an temperature and humidity controlled environment to grow mushrooms.
 
 ## Links  
 3D Printed Grow Tent Upgrades: Ventilation System, Humidifier and Controller. youtube video  
-https://youtu.be/dSrJ2VtUzEo?si=-SNb6Bbtx5HpGsDg
+https://youtu.be/dSrJ2VtUzEo?si=-SNb6Bbtx5HpGsDg  
 Optimal Humidifier for Grow Tents - Improved Version  
 https://www.thingiverse.com/thing:6397535  
 video  
 https://youtu.be/icKeO-kyiGk?si=xPVN_vuJqBExsu09  
 
-Free Workshop: Starter Guide To Mushroom Farming | GroCycle 
+Free Workshop: Starter Guide To Mushroom Farming | GroCycle  
 https://youtu.be/icKeO-kyiGk?si=Ma1949mAzkJjP3xK
