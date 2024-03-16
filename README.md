@@ -25,7 +25,14 @@ create an temperature and humidity controlled environment to grow mushrooms.
 - arduino to handle the three elements. a display and input knobs?
 - rapsberry pie to connect to web? maybe home kit. control heating for temp, fan for co2 etc 
 
-
+### mix the substrate
+- coffee grounds
+- wood pellets
+- big container
+- plastic mushrooms growing bags to hang 
+- mix the pellets with the spawn. put in bags - 3 weeks wait at 20-24 C for oysters
+- 125 kg per sq mt
+- dark environment
 
 ## Links  
 3D Printed Grow Tent Upgrades: Ventilation System, Humidifier and Controller. youtube video  
