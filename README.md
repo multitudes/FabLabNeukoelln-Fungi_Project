@@ -69,6 +69,10 @@ https://youtu.be/BaEGzgNYYMQ?si=8sh8EUKXdnpMRuvQ
 https://youtu.be/vZ_qfB8A-qM?si=UPHAXjvAcwIMM0Op  
 https://www.tu.berlin/mikrobiologie/forschung/projekte/entwicklung-pilzbasierter-werkstoffe  
 
+instrudctables  
+https://www.instructables.com/How-to-Build-a-Martha-Grow-Tent-Mushroom-Cultivati/  
+
+
 Books:
 ❖  Mycelium running: how mushrooms can help save the world (2004)
 ❖  Radical Mycology: A Treatise on Seeing & working with Fungi (2016)
