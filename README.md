@@ -40,6 +40,42 @@ create an temperature and humidity controlled environment to grow mushrooms.
 - dark environment
 
 ## Links  
+
+The TU Berlin had a workshop in 2019.  
+projects  
+https://www.tu.berlin/mikrobiologie/forschung/projekte  
+
+The book published by the TU Berlin and other  
+https://library.oapen.org/handle/20.500.12657/50293  
+
+https://artlaboratory-berlin.org/events/mind-the-fungi-mushroom-cultivation-courses/  
+
+green architecture  
+https://www.huffpost.com/entry/moma-hy-fi_n_5549107
+
+https://www.ecovative.com  
+
+Instructables:  
+https://www.instructables.com/How-to-Build-a-Martha-Grow-Tent-Mushroom-Cultivati/  
+
+
+https://www.mycoworks.com  
+
+
+
+tinyBe  
+https://youtu.be/BaEGzgNYYMQ?si=8sh8EUKXdnpMRuvQ  
+
+https://youtu.be/vZ_qfB8A-qM?si=UPHAXjvAcwIMM0Op  
+https://www.tu.berlin/mikrobiologie/forschung/projekte/entwicklung-pilzbasierter-werkstoffe  
+
+Books:
+❖  Mycelium running: how mushrooms can help save the world (2004)
+❖  Radical Mycology: A Treatise on Seeing & working with Fungi (2016)
+
+mimmi ferments for fermentation
+https://mimiferments.com/collections/workshop
+
 3D Printed Grow Tent Upgrades: Ventilation System, Humidifier and Controller. youtube video  
 https://youtu.be/dSrJ2VtUzEo?si=-SNb6Bbtx5HpGsDg  
 Optimal Humidifier for Grow Tents - Improved Version  
