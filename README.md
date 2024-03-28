@@ -41,6 +41,17 @@ create an temperature and humidity controlled environment to grow mushrooms.
 
 ## Links  
 
+There is really nice series of youtube videos about all what you need:  
+https://www.youtube.com/@diy-mushroom-tek
+
+my google sheets 
+https://docs.google.com/spreadsheets/d/12R7Wkm8Nz2zLa1NQa-oBZ-2w6hAllGzAMuuDEiKfbG0/edit?usp=sharing  
+
+humidity controller https://www.printables.com/de/model/246876-331-controller-with-relays-sensor-and-hmi-for-indo  
+https://www.printables.com/de/model/598587-xy-tr01-humidity-controller-mount  
+
+https://www.printables.com/de/model/246876-331-controller-with-relays-sensor-and-hmi-for-indo  
+
 The TU Berlin had a workshop in 2019.  
 projects  
 https://www.tu.berlin/mikrobiologie/forschung/projekte  
