@@ -9,6 +9,12 @@ Learn and start a business or feed your school. :)
 # Where?
 In the basement or storage room of the NK_fablab/42Berlin school.
 
+## Starting point of the project
+We will start first by creating a fruiting chamber and use bags which already contain a spawned substrate.  
+The bags can be bought online.
+A later step would be to make our own substrate and fill the our own bags with it adding the spawn,   
+but this process needs sterilisation of the substrate first.
+
 # Outline
 Create a temperature and humidity controlled environment to grow mushrooms.
 
@@ -48,7 +54,8 @@ We can skip this step at first because it requires strilisation and we cannot cu
 - Dark environment
 
 ### Fruiting
-The spawned bag will be kept in the ideal environment until it fruits.  This is the first 
+The spawned bag will be kept in the ideal environment until it fruits and then can be harvested.  
+This is the first step in our project.
 
 ## Links
 
