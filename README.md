@@ -60,46 +60,49 @@ This is the first step in our project.
 ## Links
 
 There are really nice series of YouTube videos about all you need:
-[DIY Mushroom Tek](https://www.youtube.com/@diy-mushroom-tek)
+[DIY Mushroom Tek](https://www.youtube.com/@diy-mushroom-tek)  
 
-My Google Sheets [link](https://docs.google.com/spreadsheets/d/12R7Wkm8Nz2zLa1NQa-oBZ-2w6hAllGzAMuuDEiKfbG0/edit?usp=sharing)
+My Google Sheets [link](https://docs.google.com/spreadsheets/d/12R7Wkm8Nz2zLa1NQa-oBZ-2w6hAllGzAMuuDEiKfbG0/edit?usp=sharing)  
 
-Humidity controller [link1](https://www.printables.com/de/model/246876-331-controller-with-relays-sensor-and-hmi-for-indo) [link2](https://www.printables.com/de/model/598587-xy-tr01-humidity-controller-mount)
+Humidity controller [link1](https://www.printables.com/de/model/246876-331-controller-with-relays-sensor-and-hmi-for-indo)  
+[link2](https://www.printables.com/de/model/598587-xy-tr01-humidity-controller-mount)  
 
-[TU Berlin workshop projects](https://www.tu.berlin/mikrobiologie/forschung/projekte)
+[TU Berlin workshop projects](https://www.tu.berlin/mikrobiologie/forschung/projekte)  
 
-[The book published by TU Berlin and others](https://library.oapen.org/handle/20.500.12657/50293)
+[The book published by TU Berlin and others](https://library.oapen.org/handle/20.500.12657/50293)  
 
-[Art Laboratory Berlin](https://artlaboratory-berlin.org/events/mind-the-fungi-mushroom-cultivation-courses/)
+[Art Laboratory Berlin](https://artlaboratory-berlin.org/events/mind-the-fungi-mushroom-cultivation-courses/)  
 
-[Ecovative](https://www.ecovative.com)
+[Ecovative](https://www.ecovative.com)  
 
-[Instructables](https://www.instructables.com/How-to-Build-a-Martha-Grow-Tent-Mushroom-Cultivati/)
+[Instructables](https://www.instructables.com/How-to-Build-a-Martha-Grow-Tent-Mushroom-Cultivati/)  
 
-[Mycoworks](https://www.mycoworks.com)
+[Mycoworks](https://www.mycoworks.com)  
 
-[TinyBe](https://youtu.be/BaEGzgNYYMQ?si=8sh8EUKXdnpMRuvQ)
+[TinyBe](https://youtu.be/BaEGzgNYYMQ?si=8sh8EUKXdnpMRuvQ)  
 
-[TU Berlin Microbiology Projects](https://www.tu.berlin/mikrobiologie/forschung/projekte/entwicklung-pilzbasierter-werkstoffe)
+[TU Berlin Microbiology Projects](https://www.tu.berlin/mikrobiologie/forschung/projekte/entwicklung-pilzbasierter-werkstoffe)  
 
-[Books:](https://www.tu.berlin/mikrobiologie/forschung/projekte/entwicklung-pilzbasierter-werkstoffe)
-- Mycelium Running: How Mushrooms Can Help Save the World (2004)
-- Radical Mycology: A Treatise on Seeing & Working with Fungi (2016)
+[Books:](https://www.tu.berlin/mikrobiologie/forschung/projekte/entwicklung-pilzbasierter-werkstoffe)  
+- Mycelium Running: How Mushrooms Can Help Save the World (2004)  
+- Radical Mycology: A Treatise on Seeing & Working with Fungi (2016)  
 
-[Mimi Ferments](https://mimiferments.com/collections/workshop)
+[Mimi Ferments](https://mimiferments.com/collections/workshop)  
 
-[3D Printed Grow Tent Upgrades: Ventilation System, Humidifier and Controller YouTube Video](https://youtu.be/dSrJ2VtUzEo?si=-SNb6Bbtx5HpGsDg)
+[3D Printed Grow Tent Upgrades: Ventilation System, Humidifier and Controller YouTube Video](https://youtu.be/dSrJ2VtUzEo?si=-SNb6Bbtx5HpGsDg)  
 
-[Optimal Humidifier for Grow Tents - Improved Version](https://www.thingiverse.com/thing:6397535)
+[Optimal Humidifier for Grow Tents - Improved Version](https://www.thingiverse.com/thing:6397535)  
 
-[Free Workshop: Starter Guide To Mushroom Farming | GroCycle](https://youtu.be/icKeO-kyiGk?si=Ma1949mAzkJjP3xK)
+[Free Workshop: Starter Guide To Mushroom Farming | GroCycle](https://youtu.be/icKeO-kyiGk?si=Ma1949mAzkJjP3xK)  
 
-[In the Garage!!!!](https://youtu.be/_kPLXib4ksE?si=WMwSg8Z2-8_iYVFy)
+[In the Garage!!!!](https://youtu.be/_kPLXib4ksE?si=WMwSg8Z2-8_iYVFy)  
 
-[Lights:](https://www.mushroom-corner.com/posts/mushroom-grow-lights-buyers-guide)
+[Lights:](https://www.mushroom-corner.com/posts/mushroom-grow-lights-buyers-guide)  
 
 [Music](https://youtu.be/-hlQHYtncww?si=jag8b0jR52WN1Ij0)  
-[YouTube Live](https://www.youtube.com/live/gtoHlhcNHE8?si=Ihu3Gjd1UVpKBs5c)
+[YouTube Live](https://www.youtube.com/live/gtoHlhcNHE8?si=Ihu3Gjd1UVpKBs5c)  
 
 [DHT11 - YouTube](https://youtu.be/dJJAQxyryoQ?si=Di6VHg_juJ59Q_K-)  
 
+[In Grow bags](https://learn.freshcap.com/growing/mushroom-grow-bags-the-ultimate-guide/)  
+[Matter](https://www.youtube.com/watch?v=KodQZguDyHo)
