@@ -1,105 +1,89 @@
 # FabLabNeukoelln-Fungi_Project
+
 FabLabNeukoelln-Fungi_Project
 
-A way to live sustainable. 
-Substrate can be a mix of cardboard and saw dust or coffee ground. (Would need to be sterile though.
+A way to live sustainably. Substrate can be a mix of cardboard and sawdust or coffee grounds. (Would need to be sterile though.)
 
 Learn and start a business or feed your school. :)
 
 # Where?
-In the storage room of the fablab/42Berlin school
+In the basement or storage room of the NK_fablab/42Berlin school.
 
 # Outline
-create an temperature and humidity controlled environment to grow mushrooms.
+Create a temperature and humidity controlled environment to grow mushrooms.
 
-## phases
-### build a martha tent 
-- a design structure, a ftame to support the shelves. Metall frame made of pipes and joints would be better I think
-- shelves will be made of metal mesh or some can use bars. They can be removed.
-- there will be a transparent cover with a zip. it can be made modular. If we get the material we should be able to
-  saw the zip together. Or maybe make a left side. the zip and the right side.. which can be extensed by putting a part in the middle?
+## Phases
+### Build a small "Martha" tent or a smaller proof of concept one-bag environment.
+- Design structure, a frame to support the shelves. A metal frame made of pipes and joints would be good, but wooden shelves would also be nice.
+- Shelves can have metal mesh or some can use bars or have wooden support. They can be removed.
+- There will be a transparent cover with a zip. It can be made modular. If we get the material we should be able to saw the zip together.
 
-### vents
-- air filter in with fan?
-- air vent out with fan.
-- humidifier
-- light and heatbody
+## Lights
+Depends on the mushroom type. LED with either red or blue frequency and timer. Some mushrooms are happy with 12 hrs a day. Fruiting is red light and spawning is blue usually.
 
-### some controllers
-- measure the CO2. the humidity and the temp. so three elements to connect to a board
-- arduino to handle the three elements. a display and input knobs?
-- rapsberry pie to connect to web? maybe home kit. control heating for temp, fan for co2 etc 
+### Ventilation
+- Air filter in with fan?
+- Air vent out with fan.
 
-### mix the substrate
-- coffee grounds
-- wood pellets
-- big container
-- plastic mushrooms growing bags to hang 
-- mix the pellets with the spawn. put in bags - 3 weeks wait at 20-24 C for oysters
-- 125 kg per sq mt
-- dark environment
+#### Sensors
+- Humidity sensor
+- CO2 - Fungi don't like high CO2 content.
+- Temperature needs to be between 22-28°C for oyster mushrooms.
 
-## Links  
+### Some Microcontrollers
+- Arduino can handle the three sensors. Can send data via WiFi?
 
-There is really nice series of youtube videos about all what you need:  
-https://www.youtube.com/@diy-mushroom-tek
+## Music?
+Can mushrooms make music? This is still left to see.
 
-my google sheets 
-https://docs.google.com/spreadsheets/d/12R7Wkm8Nz2zLa1NQa-oBZ-2w6hAllGzAMuuDEiKfbG0/edit?usp=sharing  
+### Mix the Substrate
+- Coffee grounds
+- Wood pellets
+- Big container
+- Plastic mushroom growing bags to hang
+- Mix the pellets with the spawn. Put in bags - 3 weeks wait at 20-24°C for oysters.
+- 125 kg per sq m
+- Dark environment
 
-humidity controller https://www.printables.com/de/model/246876-331-controller-with-relays-sensor-and-hmi-for-indo  
-https://www.printables.com/de/model/598587-xy-tr01-humidity-controller-mount  
+## Links
 
-https://www.printables.com/de/model/246876-331-controller-with-relays-sensor-and-hmi-for-indo  
+There are really nice series of YouTube videos about all you need:
+[DIY Mushroom Tek](https://www.youtube.com/@diy-mushroom-tek)
 
-The TU Berlin had a workshop in 2019.  
-projects  
-https://www.tu.berlin/mikrobiologie/forschung/projekte  
+My Google Sheets [link](https://docs.google.com/spreadsheets/d/12R7Wkm8Nz2zLa1NQa-oBZ-2w6hAllGzAMuuDEiKfbG0/edit?usp=sharing)
 
-The book published by the TU Berlin and other  
-https://library.oapen.org/handle/20.500.12657/50293  
+Humidity controller [link1](https://www.printables.com/de/model/246876-331-controller-with-relays-sensor-and-hmi-for-indo) [link2](https://www.printables.com/de/model/598587-xy-tr01-humidity-controller-mount)
 
-https://artlaboratory-berlin.org/events/mind-the-fungi-mushroom-cultivation-courses/  
+[TU Berlin workshop projects](https://www.tu.berlin/mikrobiologie/forschung/projekte)
 
-green architecture  
-https://www.huffpost.com/entry/moma-hy-fi_n_5549107
+[The book published by TU Berlin and others](https://library.oapen.org/handle/20.500.12657/50293)
 
-https://www.ecovative.com  
+[Art Laboratory Berlin](https://artlaboratory-berlin.org/events/mind-the-fungi-mushroom-cultivation-courses/)
 
-Instructables:  
-https://www.instructables.com/How-to-Build-a-Martha-Grow-Tent-Mushroom-Cultivati/  
+[Ecovative](https://www.ecovative.com)
 
+[Instructables](https://www.instructables.com/How-to-Build-a-Martha-Grow-Tent-Mushroom-Cultivati/)
 
-https://www.mycoworks.com  
+[Mycoworks](https://www.mycoworks.com)
 
+[TinyBe](https://youtu.be/BaEGzgNYYMQ?si=8sh8EUKXdnpMRuvQ)
 
+[TU Berlin Microbiology Projects](https://www.tu.berlin/mikrobiologie/forschung/projekte/entwicklung-pilzbasierter-werkstoffe)
 
-tinyBe  
-https://youtu.be/BaEGzgNYYMQ?si=8sh8EUKXdnpMRuvQ  
+[Books:](https://www.tu.berlin/mikrobiologie/forschung/projekte/entwicklung-pilzbasierter-werkstoffe)
+- Mycelium Running: How Mushrooms Can Help Save the World (2004)
+- Radical Mycology: A Treatise on Seeing & Working with Fungi (2016)
 
-https://youtu.be/vZ_qfB8A-qM?si=UPHAXjvAcwIMM0Op  
-https://www.tu.berlin/mikrobiologie/forschung/projekte/entwicklung-pilzbasierter-werkstoffe  
+[Mimi Ferments](https://mimiferments.com/collections/workshop)
 
-instrudctables  
-https://www.instructables.com/How-to-Build-a-Martha-Grow-Tent-Mushroom-Cultivati/  
+[3D Printed Grow Tent Upgrades: Ventilation System, Humidifier and Controller YouTube Video](https://youtu.be/dSrJ2VtUzEo?si=-SNb6Bbtx5HpGsDg)
 
+[Optimal Humidifier for Grow Tents - Improved Version](https://www.thingiverse.com/thing:6397535)
 
-Books:
-❖  Mycelium running: how mushrooms can help save the world (2004)
-❖  Radical Mycology: A Treatise on Seeing & working with Fungi (2016)
+[Free Workshop: Starter Guide To Mushroom Farming | GroCycle](https://youtu.be/icKeO-kyiGk?si=Ma1949mAzkJjP3xK)
 
-mimmi ferments for fermentation
-https://mimiferments.com/collections/workshop
+[In the Garage!!!!](https://youtu.be/_kPLXib4ksE?si=WMwSg8Z2-8_iYVFy)
 
-3D Printed Grow Tent Upgrades: Ventilation System, Humidifier and Controller. youtube video  
-https://youtu.be/dSrJ2VtUzEo?si=-SNb6Bbtx5HpGsDg  
-Optimal Humidifier for Grow Tents - Improved Version  
-https://www.thingiverse.com/thing:6397535  
-video  
-https://youtu.be/icKeO-kyiGk?si=xPVN_vuJqBExsu09  
+[Lights:](https://www.mushroom-corner.com/posts/mushroom-grow-lights-buyers-guide)
 
-Free Workshop: Starter Guide To Mushroom Farming | GroCycle  
-https://youtu.be/icKeO-kyiGk?si=Ma1949mAzkJjP3xK
-
-in the garage!!!!
-https://youtu.be/_kPLXib4ksE?si=WMwSg8Z2-8_iYVFy
+[Music](https://youtu.be/-hlQHYtncww?si=jag8b0jR52WN1Ij0) [YouTube Live](https://www.youtube.com/live/gtoHlhcNHE8?si=Ihu3Gjd1UVpKBs5c)
