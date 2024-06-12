@@ -26,7 +26,7 @@ Depends on the mushroom type. LED with either red or blue frequency and timer. S
 - Air vent out with fan.
 
 #### Sensors
-- Humidity sensor
+- Humidity sensor. The most common temperature and humidity sensor for Arduino is the DHT series, specifically the DHT11 or DHT22.
 - CO2 - Fungi don't like high CO2 content.
 - Temperature needs to be between 22-28°C for oyster mushrooms.
 
@@ -86,4 +86,8 @@ Humidity controller [link1](https://www.printables.com/de/model/246876-331-contr
 
 [Lights:](https://www.mushroom-corner.com/posts/mushroom-grow-lights-buyers-guide)
 
-[Music](https://youtu.be/-hlQHYtncww?si=jag8b0jR52WN1Ij0) [YouTube Live](https://www.youtube.com/live/gtoHlhcNHE8?si=Ihu3Gjd1UVpKBs5c)
+[Music](https://youtu.be/-hlQHYtncww?si=jag8b0jR52WN1Ij0)  
+[YouTube Live](https://www.youtube.com/live/gtoHlhcNHE8?si=Ihu3Gjd1UVpKBs5c)
+
+[DHT11 - YouTube](https://youtu.be/dJJAQxyryoQ?si=Di6VHg_juJ59Q_K-)  
+
