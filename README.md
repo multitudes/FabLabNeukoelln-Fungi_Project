@@ -31,12 +31,14 @@ Depends on the mushroom type. LED with either red or blue frequency and timer. S
 - Temperature needs to be between 22-28°C for oyster mushrooms.
 
 ### Some Microcontrollers
-- Arduino can handle the three sensors. Can send data via WiFi?
+- Arduino can handle the three sensors.
+- Arduino Matter is able to use Matter which is a new standard for home automation. Still new and not yet for sale in Europe.
 
 ## Music?
-Can mushrooms make music? This is still left to see.
+Can mushrooms make music? This is still left to see.  
 
 ### Mix the Substrate
+We can skip this step at first because it requires strilisation and we cannot currently do it.
 - Coffee grounds
 - Wood pellets
 - Big container
@@ -44,6 +46,9 @@ Can mushrooms make music? This is still left to see.
 - Mix the pellets with the spawn. Put in bags - 3 weeks wait at 20-24°C for oysters.
 - 125 kg per sq m
 - Dark environment
+
+### Fruiting
+The spawned bag will be kept in the ideal environment until it fruits.  This is the first 
 
 ## Links
 
