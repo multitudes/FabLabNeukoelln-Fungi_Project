@@ -1,35 +1,42 @@
-# FabLabNeukoelln-Fungi_Project
+# FabLabNeukoelln-FungiProject
 
-FabLabNeukoelln-Fungi_Project
-
-A way to live sustainably. Substrate can be a mix of cardboard and sawdust or coffee grounds. (Would need to be sterile though.)
-
-Learn and start a business or feed your school. :)
+Why this project? 
+- Get the best quality mushrooms and save money.
+- can cultivate mushrooms in a small space.
+- Can try to grow different types of mushrooms, even some which can be hard to get or expensive variety.
+- learn about the process of growing mushrooms.
+- Can be a source of extra income   
+- A way to live sustainably. 
+- you can make new friends and share the mushrooms with them.  
+- Can reuse cardboard as substrate which can be even be a mix of cardboard and sawdust or coffee grounds. (Would need to be sterile though.)
 
 # Where?
-In the basement or storage room of the NK_fablab/42Berlin school.
+It is based in the basement or storage room of the NK_fablab/42Berlin school.  We just participated in the 48 hours Mackerthon and we did a prototype of a small tent with a ESP32 microcontroller and a DHT11 sensor for the humidity and temperature. We also have a small humidifier printing in progress and we plan to add two fans and a co2 monitor. The material of the tent needs to be sturdier for the final version. We will also need to add a led light source.
 
 ## Starting point of the project
 We will start first by creating a fruiting chamber and use bags which already contain a spawned substrate.  
-The bags can be bought online.
-A later step would be to make our own substrate and fill the our own bags with it adding the spawn,   
-but this process needs sterilisation of the substrate first.
+The bags can be bought online.  
+A later step would be to make our own substrate and fill the our own bags with it adding the spawn, but this process needs sterilisation of the substrate first.
 
 # Outline
-Create a temperature and humidity controlled environment to grow mushrooms.
+Create a temperature, co2 and humidity controlled environment to grow mushrooms.  Also called a Martha tent.
 
 ## Phases
 ### Build a small "Martha" tent or a smaller proof of concept one-bag environment.
-- Design structure, a frame to support the shelves. A metal frame made of pipes and joints would be good, but wooden shelves would also be nice.
-- Shelves can have metal mesh or some can use bars or have wooden support. They can be removed.
-- There will be a transparent cover with a zip. It can be made modular. If we get the material we should be able to saw the zip together.
+- Design structure, a frame to support the shelves. 
+- The idea is to make it stackable and modular.
+- There will be a fabric cover with a zip. If we get the right material we should be able to saw the zip together.
+
+### Add the sensors and microcontroller
+- Add the sensors and microcontroller to the tent. We chose the ESP32 microcontroller because it has wifi and bluetooth capabilities. We can use the wifi to send the data to a server and the bluetooth to connect to a phone or tablet.
+- The sensors we will use are the DHT11 for temperature and humidity and a CO2 sensor. 
+
 
 ## Lights
 Depends on the mushroom type. LED with either red or blue frequency and timer. Some mushrooms are happy with 12 hrs a day. Fruiting is red light and spawning is blue usually.
 
 ### Ventilation
-- Air filter in with fan?
-- Air vent out with fan.
+- The microcontroller will control 2 fans. One for the air intake and one for the exhaust. The exhaust fan will be connected to a filter. The intake fan could be connected to a HEPA filter to clean the air before it enters the tent.
 
 #### Sensors
 - Humidity sensor. The most common temperature and humidity sensor for Arduino is the DHT series, specifically the DHT11 or DHT22.
@@ -37,8 +44,7 @@ Depends on the mushroom type. LED with either red or blue frequency and timer. S
 - Temperature needs to be between 22-28°C for oyster mushrooms.
 
 ### Some Microcontrollers
-- Arduino can handle the three sensors.
-- Arduino Matter is able to use Matter which is a new standard for home automation. Still new and not yet for sale in Europe.
+The choice is between ESP32 and Arduino. Also the Matter protocol is an interesting option. 
 
 ## Music?
 Can mushrooms make music? This is still left to see.  
