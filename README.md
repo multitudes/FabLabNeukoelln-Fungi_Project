@@ -31,6 +31,18 @@ Create a temperature, co2 and humidity controlled environment to grow mushrooms.
 - Add the sensors and microcontroller to the tent. We chose the ESP32 microcontroller because it has wifi and bluetooth capabilities. We can use the wifi to send the data to a server and the bluetooth to connect to a phone or tablet.
 - The sensors we will use are the DHT11 for temperature and humidity and a CO2 sensor. 
 
+### The Makerthon Neukoelln
+the Makerthon gave us the opportunity to try out things:
+- lasercutting the frame
+- update the reading on a webserver on a local network.
+</div>
+<div align="center">
+<img src="assets/lasercutting.jpeg" width="200">
+<img src="assets/prototype.jpeg" width="200">
+<img src="assets/prototype2.jpeg" width="200">
+<img src="assets/prototype3.jpeg" width="200">
+<img src="assets/webserver.jpeg" width="200">
+</div>
 
 ## Lights
 Depends on the mushroom type. LED with either red or blue frequency and timer. Some mushrooms are happy with 12 hrs a day. Fruiting is red light and spawning is blue usually.
